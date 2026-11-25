@@ -19,12 +19,24 @@ You get one team from the first conversation to production, and we stay after la
 
 ### What we build
 
-| | |
-|---|---|
-| **Custom software** <br><sub>Reliable software, from architecture to production. Built to grow with you.</sub> | **Web platforms** <br><sub>Fast, modern websites and web apps with clean code and a sharp user experience.</sub> |
-| **Mobile and desktop apps** <br><sub>Apps that feel native on every device.</sub> | **Cloud and APIs** <br><sub>Cloud apps and clean APIs that scale on demand and hold up under load.</sub> |
-| **Integration and automation** <br><sub>Connect your tools. Remove the manual work.</sub> | **AI and machine learning** <br><sub>Practical AI that adds real value. No hype.</sub> |
-| **Data and dashboards** <br><sub>Turn data into decisions with dashboards built around your KPIs.</sub> | **Business systems** <br><sub>ERP, CRM and internal tools that streamline every department.</sub> |
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>Custom software</b><br><sub>Reliable software, from architecture to production. Built to grow with you.</sub></td>
+    <td width="50%" valign="top"><b>Web platforms</b><br><sub>Fast, modern websites and web apps with clean code and a sharp user experience.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>Mobile and desktop apps</b><br><sub>Apps that feel native on every device.</sub></td>
+    <td width="50%" valign="top"><b>Cloud and APIs</b><br><sub>Cloud apps and clean APIs that scale on demand and hold up under load.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>Integration and automation</b><br><sub>Connect your tools. Remove the manual work.</sub></td>
+    <td width="50%" valign="top"><b>AI and machine learning</b><br><sub>Practical AI that adds real value. No hype.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>Data and dashboards</b><br><sub>Turn data into decisions with dashboards built around your KPIs.</sub></td>
+    <td width="50%" valign="top"><b>Business systems</b><br><sub>ERP, CRM and internal tools that streamline every department.</sub></td>
+  </tr>
+</table>
 
 ### Our own products
 
